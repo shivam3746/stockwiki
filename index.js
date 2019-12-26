@@ -12,8 +12,6 @@ const PORT = process.env.PORT || 5000;
 //Using body parser middleware
 app.use(bodyParser.urlencoded({extended: false}));
 
-//API key logo pk_9edd16dcf924a8076186e0bd8d3739cd
-
 //API key stocks pk_63004e49291c43c7a86bd79ce2b2383a
 //call_api function
 
